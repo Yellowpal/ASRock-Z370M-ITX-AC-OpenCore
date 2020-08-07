@@ -17,17 +17,17 @@ i7 8700 ES + ASRock-Z370M-ITX-AC + RX570 + OpenCore
 
 # 版本
 
-系统版本：10.15.5
+系统版本：10.15.6
 
-OpenCore：0.5.9
+OpenCore：0.6.0
 
-Lilu：1.4.5
+Lilu：1.4.6
 
-VirtualSMC：1.1.4
+VirtualSMC：1.1.5
 
-WhateverGreen：1.4.0
+WhateverGreen：1.4.1
 
-AppleALC：1.5.0
+AppleALC：1.5.1
 
 USB：已定制，使用的都是主板上的接口，使用的SMBIOS是iMac19,1，如果需要更改SMBIOS的话请自行更改 USBPorts.kext下面info.plist中的SMBIOS或重新定制。
 
@@ -36,6 +36,8 @@ USB：已定制，使用的都是主板上的接口，使用的SMBIOS是iMac19,1
 1. 填上新的三码即可，参考：https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html#platforminfo
 
 2. ROM可填上自己网卡的MAC地址，避免冲突。
+
+1. 非4K屏如果觉得开机图标太大可将NVRAM->Add->4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14->UIScale值设置为01（标准分辨率）。
 
 3. 以下根据自己硬件进行修改
 
