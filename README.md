@@ -19,15 +19,15 @@ i7 8700 ES + ASRock-Z370M-ITX-AC + RX570 + OpenCore
 
 系统版本：10.15.6
 
-OpenCore：0.6.1
+OpenCore：0.6.2
 
-Lilu：1.4.7
+Lilu：1.4.8
 
-VirtualSMC：1.1.6
+VirtualSMC：1.1.7
 
-WhateverGreen：1.4.2
+WhateverGreen：1.4.3
 
-AppleALC：1.5.2
+AppleALC：1.5.3
 
 USB：已定制，使用的都是主板上的接口，使用的SMBIOS是iMac19,1，如果需要更改SMBIOS的话请自行更改 USBPorts.kext下面info.plist中的SMBIOS或重新定制。
 
