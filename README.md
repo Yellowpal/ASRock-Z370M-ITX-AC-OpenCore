@@ -17,17 +17,17 @@ i7 8700 ES + ASRock-Z370M-ITX-AC + RX570 + OpenCore
 
 # 版本
 
-系统版本：10.15.6
+系统版本：macOS Catalina 版本10.15.7（版号19H15）
 
-OpenCore：0.6.2
+OpenCore：0.6.3
 
-Lilu：1.4.8
+Lilu：1.4.9
 
-VirtualSMC：1.1.7
+VirtualSMC：1.1.8
 
-WhateverGreen：1.4.3
+WhateverGreen：1.4.4
 
-AppleALC：1.5.3
+AppleALC：1.5.5
 
 USB：已定制，使用的都是主板上的接口，使用的SMBIOS是iMac19,1，如果需要更改SMBIOS的话请自行更改 USBPorts.kext下面info.plist中的SMBIOS或重新定制。
 
