@@ -19,13 +19,13 @@ i7 8700 ES + ASRock-Z370M-ITX-AC + RX570 + OpenCore
 
 系统版本：macOS Catalina 版本10.15.7（版号19H15）
 
-OpenCore：0.6.3
+OpenCore：0.6.4
 
-Lilu：1.4.9
+Lilu：1.5.0
 
-VirtualSMC：1.1.8
+VirtualSMC：1.1.9
 
-WhateverGreen：1.4.4
+WhateverGreen：1.4.5
 
 AppleALC：1.5.5
 
