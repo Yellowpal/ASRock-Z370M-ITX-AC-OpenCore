@@ -17,7 +17,7 @@ i7 8700 ES + ASRock-Z370M-ITX-AC + RX570 + OpenCore
 
 # 版本
 
-系统版本：macOS Catalina 版本10.15.7（版号19H15）
+系统版本：macOS Big Sur 11.1
 
 OpenCore：0.6.5
 
