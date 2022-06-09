@@ -17,17 +17,17 @@ i7 8700 ES + ASRock-Z370M-ITX-AC + RX570 + OpenCore
 
 # 版本
 
-系统版本：macOS Big Sur 12.2.1
+系统版本：macOS Big Sur 12.4
 
-OpenCore：0.7.9
+OpenCore：0.8.1
 
 Lilu：1.6.0
 
 VirtualSMC：1.2.9
 
-WhateverGreen：1.5.8
+WhateverGreen：1.5.9
 
-AppleALC：1.7.0
+AppleALC：1.7.2
 
 USB：已定制，使用的都是主板上的接口，使用的SMBIOS是iMac19,1，如果需要更改SMBIOS的话请自行更改 USBPorts.kext下面info.plist中的SMBIOS或重新定制。
 
