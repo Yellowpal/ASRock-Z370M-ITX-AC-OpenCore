@@ -17,17 +17,17 @@ i7 8700 ES + ASRock-Z370M-ITX-AC + RX570 + OpenCore
 
 # 版本
 
-系统版本：macOS Big Sur 12.4
+系统版本：macOS Big Sur 12.5
 
-OpenCore：0.8.1
+OpenCore：0.8.3
 
-Lilu：1.6.0
+Lilu：1.6.2
 
-VirtualSMC：1.2.9
+VirtualSMC：1.3.0
 
-WhateverGreen：1.5.9
+WhateverGreen：1.6.1
 
-AppleALC：1.7.2
+AppleALC：1.7.4
 
 USB：已定制，使用的都是主板上的接口，使用的SMBIOS是iMac19,1，如果需要更改SMBIOS的话请自行更改 USBPorts.kext下面info.plist中的SMBIOS或重新定制。
 
@@ -55,4 +55,3 @@ USB：已定制，使用的都是主板上的接口，使用的SMBIOS是iMac19,1
 2. 睡眠唤醒正常。
 3. 主板上的两个网口正常驱动。
 4. 其他不一一列举，如使用过程中有问题可一起探讨交流。
-
