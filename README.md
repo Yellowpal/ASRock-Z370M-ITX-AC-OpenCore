@@ -17,17 +17,17 @@ i7 8700 ES + ASRock-Z370M-ITX-AC + RX570 + OpenCore
 
 # 版本
 
-系统版本：macOS Ventura 13.1
+系统版本：macOS Ventura 13.5
 
-OpenCore：0.9.1
+OpenCore：0.9.4
 
-Lilu：1.6.4
+Lilu：1.6.7
 
-VirtualSMC：1.3.1
+VirtualSMC：1.3.2
 
-WhateverGreen：1.6.4
+WhateverGreen：1.6.6
 
-AppleALC：1.7.8
+AppleALC：1.8.4
 
 USB：已定制，使用的都是主板上的接口，使用的SMBIOS是iMac19,1，如果需要更改SMBIOS的话请自行更改 USBPorts.kext下面info.plist中的SMBIOS或重新定制。
 
