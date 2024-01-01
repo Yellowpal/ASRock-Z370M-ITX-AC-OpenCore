@@ -17,9 +17,9 @@ i7 8700 ES + ASRock-Z370M-ITX-AC + RX570 + OpenCore
 
 # 版本
 
-系统版本：macOS Ventura 13.5
+系统版本：macOS Ventura 13.6.3
 
-OpenCore：0.9.4
+OpenCore：0.9.7
 
 Lilu：1.6.7
 
